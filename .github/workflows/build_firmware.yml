@@ -62,5 +62,5 @@ jobs:
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
-        name: firmware
+        name: firmwar
         path: /home/runner/work/bin/
